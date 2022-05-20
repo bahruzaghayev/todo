@@ -1,0 +1,126 @@
+2022-05-12 16:28:56.813  INFO 11032 --- [main] c.e.b.BahruzTutorialApplication          : Starting BahruzTutorialApplication using Java 11.0.5 on MSI with PID 11032 (C:\Users\aghay\Desktop\mensurdangelen\bahruz-tutorial\target\classes started by aghay in C:\Users\aghay\Desktop\mensurdangelen\bahruz-tutorial)
+2022-05-12 16:28:56.820  INFO 11032 --- [main] c.e.b.BahruzTutorialApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-05-12 16:28:57.362  INFO 11032 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-05-12 16:28:57.400  INFO 11032 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 30 ms. Found 2 JPA repository interfaces.
+2022-05-12 16:28:57.791  INFO 11032 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2022-05-12 16:28:57.803  INFO 11032 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-12 16:28:57.803  INFO 11032 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-05-12 16:28:57.940  INFO 11032 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-12 16:28:57.940  INFO 11032 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1082 ms
+2022-05-12 16:28:58.118  INFO 11032 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-05-12 16:28:58.266  INFO 11032 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-05-12 16:28:58.319  INFO 11032 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-05-12 16:28:58.386  INFO 11032 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.5.Final
+2022-05-12 16:28:58.522  INFO 11032 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-05-12 16:28:58.611  INFO 11032 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-05-12 16:28:59.055  INFO 11032 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-05-12 16:28:59.061  INFO 11032 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-12 16:28:59.283  INFO 11032 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test1
+2022-05-12 16:28:59.355  INFO 11032 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test2
+2022-05-12 16:28:59.360  INFO 11032 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test3
+2022-05-12 16:28:59.362  INFO 11032 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test4
+2022-05-12 16:28:59.365  INFO 11032 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test5
+2022-05-12 16:29:00.097  WARN 11032 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-12 16:29:00.337  INFO 11032 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2022-05-12 16:29:00.347  INFO 11032 --- [main] c.e.b.BahruzTutorialApplication          : Started BahruzTutorialApplication in 3.961 seconds (JVM running for 4.908)
+2022-05-12 16:29:50.391  INFO 10716 --- [main] c.e.b.BahruzTutorialApplication          : Starting BahruzTutorialApplication using Java 11.0.5 on MSI with PID 10716 (C:\Users\aghay\Desktop\mensurdangelen\bahruz-tutorial\target\classes started by aghay in C:\Users\aghay\Desktop\mensurdangelen\bahruz-tutorial)
+2022-05-12 16:29:50.394  INFO 10716 --- [main] c.e.b.BahruzTutorialApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-05-12 16:29:50.936  INFO 10716 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-05-12 16:29:50.967  INFO 10716 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 24 ms. Found 2 JPA repository interfaces.
+2022-05-12 16:29:51.291  INFO 10716 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2022-05-12 16:29:51.297  INFO 10716 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-12 16:29:51.297  INFO 10716 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-05-12 16:29:51.381  INFO 10716 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-12 16:29:51.381  INFO 10716 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 939 ms
+2022-05-12 16:29:51.469  INFO 10716 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-05-12 16:29:51.529  INFO 10716 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-05-12 16:29:51.558  INFO 10716 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-05-12 16:29:51.583  INFO 10716 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.5.Final
+2022-05-12 16:29:51.658  INFO 10716 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-05-12 16:29:51.714  INFO 10716 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-05-12 16:29:52.018  INFO 10716 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-05-12 16:29:52.024  INFO 10716 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-12 16:29:52.203  INFO 10716 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test1
+2022-05-12 16:29:52.262  INFO 10716 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test2
+2022-05-12 16:29:52.267  INFO 10716 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test3
+2022-05-12 16:29:52.269  INFO 10716 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test4
+2022-05-12 16:29:52.271  INFO 10716 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test5
+2022-05-12 16:29:52.986  WARN 10716 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-12 16:29:53.181  INFO 10716 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2022-05-12 16:29:53.189  INFO 10716 --- [main] c.e.b.BahruzTutorialApplication          : Started BahruzTutorialApplication in 3.124 seconds (JVM running for 3.936)
+2022-05-12 16:30:56.037  INFO 14120 --- [main] c.e.b.BahruzTutorialApplication          : Starting BahruzTutorialApplication using Java 11.0.5 on MSI with PID 14120 (C:\Users\aghay\Desktop\mensurdangelen\bahruz-tutorial\target\classes started by aghay in C:\Users\aghay\Desktop\mensurdangelen\bahruz-tutorial)
+2022-05-12 16:30:56.040  INFO 14120 --- [main] c.e.b.BahruzTutorialApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-05-12 16:30:56.537  INFO 14120 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-05-12 16:30:56.567  INFO 14120 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 24 ms. Found 2 JPA repository interfaces.
+2022-05-12 16:30:56.859  INFO 14120 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2022-05-12 16:30:56.864  INFO 14120 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-12 16:30:56.865  INFO 14120 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-05-12 16:30:56.940  INFO 14120 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-12 16:30:56.940  INFO 14120 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 860 ms
+2022-05-12 16:30:57.030  INFO 14120 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-05-12 16:30:57.092  INFO 14120 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-05-12 16:30:57.125  INFO 14120 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-05-12 16:30:57.152  INFO 14120 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.5.Final
+2022-05-12 16:30:57.233  INFO 14120 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-05-12 16:30:57.290  INFO 14120 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-05-12 16:30:57.599  INFO 14120 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-05-12 16:30:57.604  INFO 14120 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-12 16:30:57.788  INFO 14120 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test1
+2022-05-12 16:30:57.857  INFO 14120 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test2
+2022-05-12 16:30:57.862  INFO 14120 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test3
+2022-05-12 16:30:57.864  INFO 14120 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test4
+2022-05-12 16:30:57.866  INFO 14120 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test5
+2022-05-12 16:30:58.606  WARN 14120 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-12 16:30:58.794  INFO 14120 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2022-05-12 16:30:58.801  INFO 14120 --- [main] c.e.b.BahruzTutorialApplication          : Started BahruzTutorialApplication in 3.066 seconds (JVM running for 3.741)
+2022-05-12 16:31:51.932  INFO 19812 --- [main] c.e.b.BahruzTutorialApplication          : Starting BahruzTutorialApplication using Java 11.0.5 on MSI with PID 19812 (C:\Users\aghay\Desktop\mensurdangelen\bahruz-tutorial\target\classes started by aghay in C:\Users\aghay\Desktop\mensurdangelen\bahruz-tutorial)
+2022-05-12 16:31:51.935  INFO 19812 --- [main] c.e.b.BahruzTutorialApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-05-12 16:31:52.424  INFO 19812 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-05-12 16:31:52.451  INFO 19812 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 21 ms. Found 2 JPA repository interfaces.
+2022-05-12 16:31:52.743  INFO 19812 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2022-05-12 16:31:52.748  INFO 19812 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-12 16:31:52.749  INFO 19812 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-05-12 16:31:52.817  INFO 19812 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-12 16:31:52.818  INFO 19812 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 831 ms
+2022-05-12 16:31:52.906  INFO 19812 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-05-12 16:31:52.967  INFO 19812 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-05-12 16:31:52.996  INFO 19812 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-05-12 16:31:53.022  INFO 19812 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.5.Final
+2022-05-12 16:31:53.097  INFO 19812 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-05-12 16:31:53.154  INFO 19812 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-05-12 16:31:53.461  INFO 19812 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-05-12 16:31:53.466  INFO 19812 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-12 16:31:53.649  INFO 19812 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test1
+2022-05-12 16:31:53.710  INFO 19812 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test2
+2022-05-12 16:31:53.714  INFO 19812 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test3
+2022-05-12 16:31:53.716  INFO 19812 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test4
+2022-05-12 16:31:53.718  INFO 19812 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test5
+2022-05-12 16:31:54.536  WARN 19812 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-12 16:31:54.729  INFO 19812 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2022-05-12 16:31:54.737  INFO 19812 --- [main] c.e.b.BahruzTutorialApplication          : Started BahruzTutorialApplication in 3.229 seconds (JVM running for 4.069)
+2022-05-12 16:32:17.437  INFO 1548 --- [main] c.e.b.BahruzTutorialApplication          : Starting BahruzTutorialApplication using Java 11.0.5 on MSI with PID 1548 (C:\Users\aghay\Desktop\mensurdangelen\bahruz-tutorial\target\classes started by aghay in C:\Users\aghay\Desktop\mensurdangelen\bahruz-tutorial)
+2022-05-12 16:32:17.440  INFO 1548 --- [main] c.e.b.BahruzTutorialApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-05-12 16:32:18.035  INFO 1548 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-05-12 16:32:18.066  INFO 1548 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 25 ms. Found 2 JPA repository interfaces.
+2022-05-12 16:32:18.399  INFO 1548 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2022-05-12 16:32:18.407  INFO 1548 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-12 16:32:18.407  INFO 1548 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-05-12 16:32:18.479  INFO 1548 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-12 16:32:18.479  INFO 1548 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 982 ms
+2022-05-12 16:32:18.588  INFO 1548 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-05-12 16:32:18.655  INFO 1548 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-05-12 16:32:18.690  INFO 1548 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-05-12 16:32:18.726  INFO 1548 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.5.Final
+2022-05-12 16:32:18.817  INFO 1548 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-05-12 16:32:18.888  INFO 1548 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-05-12 16:32:19.251  INFO 1548 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-05-12 16:32:19.256  INFO 1548 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-12 16:32:19.466  INFO 1548 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test1
+2022-05-12 16:32:19.538  INFO 1548 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test2
+2022-05-12 16:32:19.543  INFO 1548 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test3
+2022-05-12 16:32:19.548  INFO 1548 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test4
+2022-05-12 16:32:19.552  INFO 1548 --- [main] com.example.bahruztutorial.TodoService   : Received todo with title = test5
+2022-05-12 16:32:20.214  WARN 1548 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-12 16:32:20.448  INFO 1548 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2022-05-12 16:32:20.458  INFO 1548 --- [main] c.e.b.BahruzTutorialApplication          : Started BahruzTutorialApplication in 3.391 seconds (JVM running for 4.252)
+2022-05-12 17:32:16.116  WARN 1548 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=49m57s207ms937µs900ns).
